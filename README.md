@@ -1,4 +1,4 @@
-# Jogos_com_Python
+# Jogos com Python
 
 Esse projeto foi desenvolvido juntamente com a plataforma de ensino da Alura
 
